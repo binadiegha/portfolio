@@ -1,6 +1,7 @@
 declare module "*.css";
 declare module "*/**";
-
+declare module "color-thief-react";
+declare module "swiper/css";
 // declare module "color-thief-react" {
 //   export function useColor(
 //     src: string,

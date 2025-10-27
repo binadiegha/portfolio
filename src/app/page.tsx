@@ -8,7 +8,6 @@ import Pill from "./components/pill/pill";
 import { GoArrowRight } from "react-icons/go";
 import Project from "./components/project/project";
 import { Swiper, SwiperSlide } from "swiper/react";
-// @ts-expect-error: Typing error from package
 import "swiper/css";
 import { useState } from "react";
 import ClientPortal from "./ClientPortal/clientPortal";
